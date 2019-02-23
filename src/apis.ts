@@ -181,6 +181,11 @@ export const PUBLIC_ADVANCED_SERVICES: AdvancedService[] = [
     serviceId: 'analytics',
     version: 'v3',
   },
+  {
+    userSymbol: 'People',
+    serviceId: 'people',
+    version: 'v1',
+  },
 ];
 
 export const SCRIPT_ID_LENGTH = 57;
